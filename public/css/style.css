@@ -1,0 +1,10 @@
+.errorTxt, .text-red, #email-error{
+    color: grey !important;
+    font-size: 12px!important;
+    font-style: italic;
+}
+
+#credit_cards img{
+	height: 30px;
+	margin-top: 10px;	
+}
